@@ -13,3 +13,4 @@ To analyze sales activities of chocolate products in sampled countries.
 - Amount-Quantity gauge
 
 ## Dashboard
+- <a href="https://github.com/ume-okechukwu-ochomma/Chocolate-Sales-/blob/main/Chocolate%20sales%20dashboard.png">
