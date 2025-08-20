@@ -1,2 +1,12 @@
-# Chocolate-Sales-
-I created a project in excel, using dashboards, tables and charts to analyze chocolate purchase data by six countries, invariably reflecting sales activities. The process involved data preprocessing and visualization.
+#Chocolate Sales Analysis(Interactive dashboard in Excel)
+##Objective
+To analyze sales activities of chocolate products in sampled countries.
+
+#Analysis breakdown
+By country
+PtoS
+By month
+Average quantities
+Amount-Quantity gauge
+
+
